@@ -50,8 +50,7 @@ iframe#home{
 }
 
 section#redes-sociais{
-    position: absolute;
-    left: 10px;
+    margin: 10px;
 }
 
 section#redes-sociais img{
@@ -63,7 +62,7 @@ section#redes-sociais img{
 }
 
 section#redes-sociais img:hover{
-    transform: translate(-5px, -2px);
-    box-shadow: 5px 5px 8px rgb(0, 0, 0);
+    transform: translate(4px, -2px);
+    box-shadow: -1px 5px 8px rgb(0, 0, 0);
     transition-duration: 0.3s;
 }
